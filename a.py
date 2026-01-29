@@ -1,0 +1,6 @@
+print(4)
+print(5 * 8)
+print(10 - 6)
+print(2 + 2)
+
+print(20 // 5)
