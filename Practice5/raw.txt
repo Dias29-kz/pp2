@@ -1,0 +1,5 @@
+Milk 500
+Bread 300
+Apple 700
+Banana 800
+
