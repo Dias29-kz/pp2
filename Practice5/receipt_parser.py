@@ -35,6 +35,10 @@ print("split:", x)
 x = re.sub(r"\d+", "PRICE", text)
 print("sub:", x)
 
+# match – checks if the text starts with a pattern
+x = re.match(r"[A-Za-z]+", text)
+print("match:", x.group())
+
 
 # -------- Receipt Parsing --------
 
