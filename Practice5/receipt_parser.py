@@ -62,3 +62,5 @@ print("Total:", total)
 
 
 
+#cd Practice5
+#python3 receipt_parser.py

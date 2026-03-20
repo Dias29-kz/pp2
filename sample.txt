@@ -1,0 +1,5 @@
+Python File Handling Practice
+This is the first line.
+This is the second line.
+This line was added later.
+Append mode keeps previous content.

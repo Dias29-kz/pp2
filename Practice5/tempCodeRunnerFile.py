@@ -1,0 +1,1 @@
+python3 receipt_parser.py
