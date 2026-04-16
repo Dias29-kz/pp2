@@ -95,3 +95,8 @@ class MovingBallApp:
             self.clock.tick(60)
 
         pygame.quit()
+
+
+if __name__ == "__main__":
+    app = MovingBallApp()
+    app.run()
