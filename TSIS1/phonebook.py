@@ -1,7 +1,7 @@
 import csv
 import json
 import psycopg2
-from connect import get_connection
+from TSIS1.connect import get_connection
 
 # TSIS1 PhoneBook Extended
 # Features: groups, many phones, email, birthday, JSON/CSV, search, sort, pagination

@@ -1,7 +1,7 @@
 # connect.py
 
 import psycopg2
-from config import DB_CONFIG
+from TSIS1.config import DB_CONFIG
 
 
 def get_connection():

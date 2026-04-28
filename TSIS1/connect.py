@@ -1,5 +1,5 @@
 import psycopg2
-from config import DB_CONFIG
+from TSIS1.config import DB_CONFIG
 
 # Create database connection
 def get_connection():

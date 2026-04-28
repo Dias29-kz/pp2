@@ -1,6 +1,6 @@
 # phonebook.py
 
-from connect import get_connection
+from TSIS1.connect import get_connection
 
 
 def execute_sql_file(filename):

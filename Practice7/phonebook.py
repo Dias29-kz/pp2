@@ -1,5 +1,5 @@
 import csv
-from connect import get_connection
+from TSIS1.connect import get_connection
 
 
 def create_table():
