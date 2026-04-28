@@ -1,13 +1,12 @@
-# Your-Repository
+PP2 repository
 
-This repository contains simple Python exercises and examples.
+TSIS1 PhoneBook Extended
+- PostgreSQL + Python
+- Contacts, Groups, Phones
+- JSON import/export
 
-Files:
-
-- **generators.py** — examples of iterators and generators
-- **dates.py** — date and time operations
-- **math.py** — math functions and built-in operations
-- **json.py** — examples of reading and writing JSON data
-
-All code is **for learning and practice purposes**. 
-This repository contains Python exercises, tutorials, and more.
+This project extends PhoneBook.
+Each contact has name, email, birthday and group.
+One contact can have many phone numbers.
+The program supports search, group filter, sorting, pagination, CSV import and JSON import/export.
+>>>>>>> 10de288 (add TSIS1 PhoneBook project)

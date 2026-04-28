@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Dias",
+        "email": "dias@gmail.com",
+        "birthday": "2007-09-17",
+        "group": "Friend",
+        "phones": [
+            {
+                "phone": "87001234567",
+                "type": "mobile"
+            }
+        ]
+    },
+    {
+        "name": "Ali",
+        "email": "ali@mail.com",
+        "birthday": "2006-05-10",
+        "group": "Family",
+        "phones": [
+            {
+                "phone": "87001111111",
+                "type": "home"
+            }
+        ]
+    },
+    {
+        "name": "Sara",
+        "email": "sara@gmail.com",
+        "birthday": "2005-03-22",
+        "group": "Work",
+        "phones": [
+            {
+                "phone": "87002222222",
+                "type": "work"
+            }
+        ]
+    },
+    {
+        "name": "John",
+        "email": "john@gmail.com",
+        "birthday": "2004-11-01",
+        "group": "Friend",
+        "phones": [
+            {
+                "phone": "87003333333",
+                "type": "mobile"
+            }
+        ]
+    },
+    {
+        "name": "Anna",
+        "email": "anna@mail.com",
+        "birthday": "2003-07-15",
+        "group": "Other",
+        "phones": [
+            {
+                "phone": "87004444444",
+                "type": "mobile"
+            }
+        ]
+    }
+]
